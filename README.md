@@ -20,3 +20,11 @@
 | 617A | Elephant | 800 |
 | 118A | StringTask | 1000 |
 | 546A | SoldierAndBananas | 800 |
+| 59A | Word | 800 |
+| 977A | WrongSubstraction | 800 |
+| 69A | YoungPhysicist | 1000 |
+| 96A | Football | 900 |
+| 110A | NearlyLuckyNumber | 800 |
+| 734A | AntonAndDanik | 800 |
+| 41A | Translation | 800 |
+| 677A | VanyaAndFence | 800 |
