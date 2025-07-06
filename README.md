@@ -7,7 +7,7 @@
 | 71A | WayTooLongWords | 800 |
 | 231A | Team | 800 |
 | 282A | BitPlusPlus | 800 |
-| 1A | TheatreSquare | 800 |
+| 1A | TheatreSquare | 1000 |
 | 158A | NextRound | 800 |
 | 50A | DominoPiling | 800 |
 | 263A | BeautifulMatrix | 800 |
