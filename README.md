@@ -3,5 +3,4 @@
 
 | Problem ID | Problem Name | Rating |
 |------------|--------------|--------|
-
 | 4A | Watermelon | 800 |
