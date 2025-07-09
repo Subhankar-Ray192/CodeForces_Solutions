@@ -28,3 +28,8 @@
 | 734A | AntonAndDanik | 800 |
 | 41A | Translation | 800 |
 | 677A | VanyaAndFence | 800 |
+| 116A | Tram | 800 |
+| 271A | BeautifulYear | 800 |
+| 1030A | InSearchOfAnEasyProblem | 800 |
+| 266B | QueueAtTheSchool | 800 |
+| 58A | ChatRoom | 1000 |
